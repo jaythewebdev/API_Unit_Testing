@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDSLKwsGMnEzec+gK/n/Bjm/UP6aQku3GJ0ZM1LWCx3lwyir2yWnt4kA8tz1OAGkg5Ay3avTFo36wv/TKanIzA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\surya\\Desktop\\Kanini\\Day 26\\SolutionAPIUnitTesting\\APITestProject\\APITestProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit3TestAdapter"
+    }
+  ]
+}
